@@ -1,0 +1,1 @@
+every file in this directory will be in the JS Section of schoolstore
