@@ -1,2 +1,2 @@
-# schoolstore
-Schoolstore is an app for chromebooks designed to let you get tweaks for chrome with working exploits for games such as blooket (release in july or earlier of 2023)
+# Welcome to SchoolStore
+Before installing SchoolStore it is recomended that javascript and PWA apps are working
